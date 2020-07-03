@@ -8,8 +8,16 @@ Vue.use(VueRouter);
 
  export default new VueRouter({
    routes:[
+     {
+       path:"/",
+       redirect:"/movie"
+     },
      movie,
      cinema,
-     mine
+     mine,
+     {
+      path:"**",
+      redirect:"/movie"
+     }
    ]
  })
