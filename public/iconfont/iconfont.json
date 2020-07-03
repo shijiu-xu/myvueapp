@@ -1,0 +1,58 @@
+{
+  "id": "1920862",
+  "name": "myvueapp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "720964",
+      "name": "箭头",
+      "font_class": "xiazai6",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "887965",
+      "name": "我的 (2)",
+      "font_class": "wode2",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "1473243",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "9908901",
+      "name": "旅游攻略",
+      "font_class": "lvyougonglve",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "9982153",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "11372734",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "14055579",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}

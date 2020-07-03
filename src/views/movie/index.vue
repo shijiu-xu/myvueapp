@@ -1,18 +1,17 @@
 <template>
   <div class="movie">
-    
-    dsf f 
+    <Header/>
+      
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
- 
+ import Header from "@/common/header"
 
 export default {
   name: 'movie',
   components: {
-    
+     
   }
 }
 </script>
