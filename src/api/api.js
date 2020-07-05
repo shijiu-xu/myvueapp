@@ -1,7 +1,8 @@
-import http from "@/utils/http.js"
+import http from "@/utils/http.js";
 
- // 酒店页面
- export const getNowMovie = ()=> http("get","/api/ajax/cinemaDetail?cinemaId=15421")
+export const getNowMovie = (id=1)=>http("get","http://localhost:3000/data");
 
+export const getCityList  = ()=>http("get","http://localhost:3000/list");
 
-//   //   https://hotel.jd.com/api/json/getRecommendHotelList?cityId=36&_=1593751867071
+export const getBanner = ()=>http("post","/capi/product/qiuxie/open/homefirstv322",{os: 3})
+

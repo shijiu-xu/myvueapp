@@ -1,18 +1,22 @@
 <template>
   <div id="app">
     <router-view />
-    <FooTer/>
+    <FooTer v-if="this.$route.meta.tabBarFlag"/>
   </div>
 </template>
 
 <script>
-import FooTer from "@/common/tabbar"
+import FooTer from "@/common/tabbar";
 export default {
-  name:"app",
-  components:{
-    FooTer
-  }
-}
+  name: "app",
+  components: {
+    FooTer,
+  },
+};
 </script>
 
-<style lang="scss"></style>
+<style lang="scss">
+#app, .page {
+  height: 100%;
+}
+</style>

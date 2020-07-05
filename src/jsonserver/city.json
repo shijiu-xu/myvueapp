@@ -1,0 +1,190 @@
+{
+  "list": [
+    {
+      "id": "0",
+      "isHot": "1",
+      "nm": "上海",
+      "py": "shanghai"
+    },
+    {
+      "id": "1",
+      "isHot": "1",
+      "nm": "北京",
+      "py": "beijing"
+    },
+    {
+      "id": "2",
+      "isHot": "1",
+      "nm": "广州",
+      "py": "guangzhou"
+    },
+    {
+      "id": "3",
+      "isHot": "1",
+      "nm": "南京",
+      "py": "nanjing"
+    },
+    {
+      "id": "4",
+      "isHot": "1",
+      "nm": "重庆",
+      "py": "chognqing"
+    },
+    {
+      "id": "5",
+      "isHot": "1",
+      "nm": "杭州",
+      "py": "hangzhou"
+    },
+    {
+      "id": "6",
+      "isHot": "44",
+      "nm": "德州",
+      "py": "dezhou"
+    },
+    {
+      "id": "7",
+      "isHot": "44",
+      "nm": "济南",
+      "py": "jinan"
+    },
+    {
+      "id": "8",
+      "isHot": "55",
+      "nm": "鞍山",
+      "py": "anshan"
+    },
+    {
+      "id": "10",
+      "isHot": "88",
+      "nm": "安山",
+      "py": "anshan"
+    },
+    {
+      "id": "11",
+      "isHot": "12",
+      "nm": "安吉县",
+      "py": "anjixian"
+    },
+    {
+      "id": "12",
+      "isHot": "14",
+      "nm": "保定",
+      "py": "baotou"
+    },
+    {
+      "id": "13",
+      "isHot": "15",
+      "nm": "北安",
+      "py": "beian"
+    },
+    {
+      "id": "14",
+      "isHot": "14",
+      "nm": "赤峰",
+      "py": "chifeng"
+    },
+    {
+      "id": "15",
+      "isHot": "44",
+      "nm": "长治",
+      "py": "changzhi"
+    },
+    {
+      "id": "16",
+      "isHot": "44",
+      "nm": "大连",
+      "py": "dalian"
+    },
+    {
+      "id": "17",
+      "isHot": "44",
+      "nm": "丹东",
+      "py": "dandong"
+    },
+    {
+      "id": "18",
+      "isHot": "44",
+      "nm": "嘉善",
+      "py": "jiashan"
+    },
+    {
+      "id": "19",
+      "isHot": "44",
+      "nm": "yantai",
+      "py": "yantai"
+    },
+    {
+      "id": "20",
+      "isHot": "44",
+      "nm": "汕头",
+      "py": "shantou"
+    },
+    {
+      "id": "21",
+      "isHot": "44",
+      "nm": "邯郸",
+      "py": "handan"
+    },
+    {
+      "id": "22",
+      "isHot": "44",
+      "nm": "张家界",
+      "py": "zhangjiajie"
+    },
+    {
+      "id": "23",
+      "isHot": "44",
+      "nm": "哈密",
+      "py": "hami"
+    },
+    {
+      "id": "24",
+      "isHot": "44",
+      "nm": "温县",
+      "py": "wenxian"
+    },
+    {
+      "id": "25",
+      "isHot": "44",
+      "nm": "廊坊",
+      "py": "langfang"
+    },
+    {
+      "id": "26",
+      "isHot": "44",
+      "nm": "临湘",
+      "py": "linxinag"
+    },
+    {
+      "id": "27",
+      "isHot": "44",
+      "nm": "龙江",
+      "py": "longjiang"
+    },
+    {
+      "id": "28",
+      "isHot": "44",
+      "nm": "温县",
+      "py": "wenxian"
+    },
+    {
+      "id": "29",
+      "isHot": "44",
+      "nm": "哈尔滨",
+      "py": "haerbin"
+    },
+    {
+      "id": "30",
+      "isHot": "44",
+      "nm": "江门",
+      "py": "wejiangmennxian"
+    },
+    {
+      "id": "31",
+      "isHot": "44",
+      "nm": "拱门",
+      "py": "gongmen"
+    }
+  ]
+}

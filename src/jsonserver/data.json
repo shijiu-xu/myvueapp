@@ -1,0 +1,220 @@
+{
+    "data":[
+        {
+            "name":"北京丽景湾国际酒店",
+            "coverImageUrl":"https://img12.360buyimg.com/hotel/jfs/t12685/105/2653721077/163358/19fd734a/5a673933N5523d61d.jpg",
+            "districtName":"朝阳区",
+            "address":"东四环十里堡北里28号",
+            "businessZoneName":"国贸地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京丽晶酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t17776/269/257192402/205242/bddb888c/5a673724Ne5e7f223.jpg",
+            "districtName":"东城区",
+            "address":"金宝街99号",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":true 
+            
+        },
+        {
+            "name":"北京天伦王朝酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/96665/1/14922/98036/5e6afdafEc7234a5b/7fe29692239f11f2.jpg",
+            "districtName":"东城区",
+            "address":"王府井大街50号",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":false
+            
+        },
+        {
+            "name":"艺苑皇冠假日酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/81715/5/1781/64287/5d0131a1Ea96936f7/412a27b89cde9353.jpg",
+            "districtName":"朝阳区",
+            "address":"王府井大街48号",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京新侨诺富特饭店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t13768/39/2314023265/137050/6044de0c/5a67373cN1ba7f730.jpg",
+            "districtName":"东城区",
+            "address":"王府井大街48号",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京华腾美居酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/99177/40/14755/77080/5e68b750E798f7ea1/b0c162c03e9f5513.jpg",
+            "districtName":"朝阳区",
+            "address":"西大望路甲16号院",
+            "businessZoneName":"国贸地区",
+            "roomFree":false
+            
+        },
+        {
+            "name":"国家会议中心酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/94745/33/8769/63171/5e08dfbcEea195acd/24e71a08542adaee.jpg",
+            "districtName":"朝阳区",
+            "address":"北辰西路8号院1号",
+            "businessZoneName":"亚运村、奥体中心地区",
+            "roomFree":false
+            
+        },
+        {
+            "name":"北京万商花园酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t19345/359/2308337770/84970/e6e54332/5af12160N2fbf40e5.jpg",
+            "districtName":"石景山区",
+            "address":"银河大街1号",
+            "businessZoneName":"石景山游乐园地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京天坛饭店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/90290/8/2684/126415/5dd535eaE4e23cd48/18cd535b472cefca.jpg",
+            "districtName":"东城区",
+            "address":"体育馆路1号",
+            "businessZoneName":"前门、崇文门商贸区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京丰荣君华酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t1/87203/35/11333/70383/5e32d775Ec709e621/6a602993555be6a2.jpg",
+            "districtName":"顺义区",
+            "address":"首都机场国门商务区李天路27号",
+            "businessZoneName":"首都机场、新国展地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京天伦松鹤大饭店",
+            "coverImageUrl":"https://img10.360buyimg.com/hotel/jfs/t17599/69/268372291/110942/13b6ca14/5a6767d7Na98cd88e.jpg",
+            "districtName":"西城区",
+            "address":"新文化街82号",
+            "businessZoneName":"西单、金融街地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"华彩智选假日酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t1/102663/9/16747/789335/5e7d6c33E7c697503/dcb6a126adebd675.png",
+            "districtName":"朝阳区",
+            "address":"望京广顺北大街16号",
+            "businessZoneName":"望京、酒仙桥、798地区",
+            "roomFree":false
+            
+        },
+        {
+            "name":"北京且亭山水酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/48469/8/16558/77220/5ddaba11E92610c0e/8dfe3d531b60b0e3.jpg",
+            "districtName":"昌平区",
+            "address":"朝凤北路8号",
+            "businessZoneName":"十三陵水库、居庸关长城风景区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"阳光温特莱酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t17701/154/265815356/122150/ad1ae838/5a673b3eN74794801.jpg",
+            "districtName":"东城区",
+            "address":"西大望路甲1号",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":false
+            
+        },
+        {
+            "name":"CBD亚朵轻居酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t1/118435/9/993/90680/5e92ed3aEce1aff03/9dfa7b59cece16c0.jpg",
+            "districtName":"东城区",
+            "address":"建华南路11号",
+            "businessZoneName":"北京站、建国门地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京宣武门商务酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/54914/12/15062/100369/5dbff1eeE2e37e97e/36167b1b50f87d16.jpg",
+            "districtName":"朝阳区",
+            "address":"宣武门东大街24号",
+            "businessZoneName":"西单、金融街地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"东方圣达文化酒店",
+            "coverImageUrl":"https://img14.360buyimg.com/hotel/jfs/t1/105327/22/16356/87567/5e79df70Ecac83d60/df87acc9b4012917.jpg",
+            "districtName":"东城区",
+            "address":"王府井东单三条甲33号",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京艺海商务酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/57359/26/12241/78808/5d90e60dEb1054be2/3f9c39fc7d34c66d.jpg",
+            "districtName":"海淀区",
+            "address":"皂君庙路2号",
+            "businessZoneName":"中关村、五道口",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京福地凰城酒店",
+            "coverImageUrl":"https://img30.360buyimg.com/hotel/jfs/t1/100188/5/13094/94103/5e5402faE40bbcd21/465aaf3478395043.jpg",
+            "districtName":"朝阳区",
+            "address":"东四北大街钱粮胡同17号",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"中关村皇冠假日酒店",
+            "coverImageUrl":"https://img20.360buyimg.com/hotel/jfs/t1/81344/23/5097/145256/5d349bf0E034ddd57/6095d5c6229d0f9c.jpg",
+            "districtName":"东城区",
+            "address":"知春路106号",
+            "businessZoneName":"中关村、五道口",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京伯豪瑞廷酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t1/59972/12/1726/68549/5d0131a2E4a340368/f652e99fab5259a5.jpg",
+            "districtName":"东城区",
+            "address":"光华路15号",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京维景国际大酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t1/103841/40/17609/112891/5e8a1a40E54a48cca/a1a7a5d6337f0656.jpg"            ,
+            "districtName":"朝阳区",
+            "address":"北三环东路2号",
+            "businessZoneName":"国展中心地区",
+            "roomFree":true
+            
+        },
+        {
+            "name":"北京万达文华酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t1/17898/37/7387/105578/5c6bac51E591c3049/9f98611b98413312.jpg",
+            "districtName":"朝阳区",
+            "address":"建国路93号万达广场C座",
+            "businessZoneName":"天安门、王府井地区",
+            "roomFree":false
+            
+        },
+        {
+            "name":"北京丽晶酒店",
+            "coverImageUrl":"https://img13.360buyimg.com/hotel/jfs/t1/92672/35/12939/102367/5e52b166Ef4e9add5/f3ddb13147cda140.jpg",
+            "districtName":"石景山区",
+            "address":"石景山路甲18号1号楼",
+            "businessZoneName":"石景山游乐园地区",
+            "roomFree":false
+            
+        }
+    ]
+}

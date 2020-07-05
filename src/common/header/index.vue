@@ -10,7 +10,7 @@ export default {
     props:{
          title:{
             type:String,
-            default:"猫眼电影"
+            default:"游之悦"
          }
     }
 }
@@ -27,6 +27,7 @@ $color:#e54847;
     justify-content: center;
     align-items: center;
     position: fixed;
+    z-index: 5;
     left: 0;
     top:0;
     color:#fff;
